@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: Discussions (questions & general chat)
+    url: https://github.com/Sreyorn/typelyrics-community/discussions
+    about: For general questions, ideas, or just saying hi — use Discussions instead of Issues.
