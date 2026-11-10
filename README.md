@@ -1,6 +1,6 @@
 # TypeLyrics Community
 
-**[typelyrics.app](https://typelyrics.app)** — Type song lyrics. Race the leaderboard. Build your streak.
+**[typelyrics.com](https://www.typelyrics.com/)** — Type song lyrics. Race the leaderboard. Build your streak.
 
 This is the official community space for TypeLyrics — bug reports, feature ideas, song requests, and announcements all live here.
 
